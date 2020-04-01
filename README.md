@@ -1,6 +1,6 @@
 # Filesplitter - a tool to split big files
 
-https://github.com/PatriceDargenton/Filesplitter
+https://github.com/PatriceDargenton/FileSplitter
 
 Upgraded from this original source code:
 Filesplitter, un utilitaire pour découper et joindre des fichiers
