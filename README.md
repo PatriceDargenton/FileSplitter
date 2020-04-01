@@ -7,6 +7,10 @@ Filesplitter, un utilitaire pour découper et joindre des fichiers
 
 http://codes-sources.commentcamarche.net/source/28107-filesplitter-un-utilitaire-pour-decouper-et-joindre-des-fichiers
 
+
+# Example: how to seek a big sql file?
+You can split a large sql file in 320 Mb chuncks, and seek them using [VBFileFind](http://patrice.dargenton.free.fr/CodesSources/VBFileFind.html) with *.part and option "Casse" (upper and lower case enforcement) and ASCII/ANSI setted, then you can easily find a text with Notepad++, for example "CREATE TABLE `MyTable".
+
 # ToDo
 - Cancel
 
