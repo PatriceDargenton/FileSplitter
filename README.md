@@ -1,7 +1,5 @@
 # Filesplitter - a tool to split big files
 
-https://github.com/PatriceDargenton/FileSplitter
-
 Upgraded from this original source code:
 Filesplitter, un utilitaire pour découper et joindre des fichiers
 
@@ -27,5 +25,3 @@ You can split a large sql file in 320 Mb chuncks, and seek them using [VBFileFin
 Filesplitter, un utilitaire pour découper et joindre des fichiers
 
 http://codes-sources.commentcamarche.net/source/28107-filesplitter-un-utilitaire-pour-decouper-et-joindre-des-fichiers
-
-Patrice Dargenton.
